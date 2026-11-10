@@ -1,0 +1,11 @@
+{
+  "org": "MaximeBeasse",
+  "repo": "KeyDecoder",
+  "versions": [
+    {
+      "commit": "325477dab71201da9f437d66d00063a310b77eb1",
+      "tag": "v1.1.0",
+      "parsed_at": "2026-11-10T01:15:57.509452+00:00"
+    }
+  ]
+}
