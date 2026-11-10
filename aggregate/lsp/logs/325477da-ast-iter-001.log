@@ -1,0 +1,7 @@
+[2026-11-10T01:14:43Z] === AST ITERATION 1 START | repo=MaximeBeasse/KeyDecoder sha=325477da ===
+[2026-11-10T01:14:43Z] [iter=1] PHASE START: ast repo=MaximeBeasse/KeyDecoder sha=325477da
+[2026-11-10T01:14:43Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T01:15:04Z] [iter=1] AST chunks built count=1 triples=186896
+[2026-11-10T01:15:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/325477dab71201da9f437d66d00063a310b77eb1/.complete
+[2026-11-10T01:15:04Z] [iter=1] PHASE END: ast elapsed_s=21 elapsed_min=0.4
+[2026-11-10T01:15:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

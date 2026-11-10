@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/MaximeBeasse/KeyDecoder/commit/325477dab71201da9f437d66d00063a310b77eb1",
       "git:hexsha": "325477dab71201da9f437d66d00063a310b77eb1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.1.0"
     }
   ]
